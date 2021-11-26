@@ -1,0 +1,11 @@
+C:\Users\JUAN PABLO\source\repos\imagenv2\imagenv2\obj\Debug\imagenv2.csproj.AssemblyReference.cache
+C:\Users\JUAN PABLO\source\repos\imagenv2\imagenv2\obj\Debug\imagenv2.csproj.SuggestedBindingRedirects.cache
+C:\Users\JUAN PABLO\source\repos\imagenv2\imagenv2\obj\Debug\imagenv2.Form1.resources
+C:\Users\JUAN PABLO\source\repos\imagenv2\imagenv2\obj\Debug\imagenv2.Properties.Resources.resources
+C:\Users\JUAN PABLO\source\repos\imagenv2\imagenv2\obj\Debug\imagenv2.csproj.GenerateResource.cache
+C:\Users\JUAN PABLO\source\repos\imagenv2\imagenv2\obj\Debug\imagenv2.csproj.CoreCompileInputs.cache
+C:\Users\JUAN PABLO\source\repos\imagenv2\imagenv2\bin\Debug\imagenv2.exe.config
+C:\Users\JUAN PABLO\source\repos\imagenv2\imagenv2\bin\Debug\imagenv2.exe
+C:\Users\JUAN PABLO\source\repos\imagenv2\imagenv2\bin\Debug\imagenv2.pdb
+C:\Users\JUAN PABLO\source\repos\imagenv2\imagenv2\obj\Debug\imagenv2.exe
+C:\Users\JUAN PABLO\source\repos\imagenv2\imagenv2\obj\Debug\imagenv2.pdb
